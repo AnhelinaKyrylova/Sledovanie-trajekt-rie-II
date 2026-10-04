@@ -50,7 +50,7 @@ Porovnanie Stanleyho algoritmu (kinematický a dynamický model) a Pure Pursuit 
 - `stanleySimple_kin2.slx`: Stanley – kinematický model[cite: 1]
 - `stanleySimple2.slx`: Stanley – dynamický model[cite: 1]
 - `zadanie2.slx`: Pure Pursuit[cite: 1]
-- `setUpModel.mlx`: Príprava trate a referencie[cite: 1]
-- `cvico3_zlepsenie.mlx`: Simulácie, vyhodnotenie a ladenie zisku[cite: 1]
+- `setUpModel.m`: Príprava trate a referencie[cite: 1]
+- `cvico3_zlepsenie.m`: Simulácie, vyhodnotenie a ladenie zisku[cite: 1]
 
 
